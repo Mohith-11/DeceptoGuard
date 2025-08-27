@@ -12,3 +12,12 @@ __pycache__/
 
 # Environment files
 .env
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+data/*
+!data/.gitkeep
+models/
