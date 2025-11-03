@@ -167,15 +167,7 @@ DeceptoGuard/
 
 ---
 
-## 🖥️ Screenshots (Preview)
-
-| 🧩 URL Input | ✅ Detection Result | 📈 Dashboard |
-|-------------|-------------------|--------------|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* |
-
----
-
-## 📚 References
+##  References
 
 - Aburrous, M. et al. (2021). Machine Learning-Based Phishing Detection. IEEE Access.
 - Verma, S. & Das, A. (2023). Phishing Detection with Random Forests. Journal of Cybersecurity.
@@ -193,12 +185,6 @@ DeceptoGuard/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -206,12 +192,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 👥 Authors
-
-- **Mohith** - *Initial work* - [Mohith-11](https://github.com/Mohith-11)
 
 ---
 
