@@ -1,0 +1,7 @@
+url,label
+http://example.com,0
+http://phishy-link.ru,1
+http://studentportal.edu,0
+http://fake-login.edu,1
+http://secure.edu/login,0
+http://free-gift.ru,1
